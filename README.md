@@ -1,16 +1,13 @@
-### Hi there 👋
+## 🔥Streak:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya2018&" alt="adithya-2018 streak" />
 
-<!--
-**Adithya2018/Adithya2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤓My Github stats:
+<img src="https://github-readme-stats.vercel.app/api?username=adithya2018&show_icons=true&locale=en" alt="adithya-2018 github stats" />
 
-Here are some ideas to get you started:
+## 📝Most used Languages:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya2018&show_icons=true&locale=en&layout=compact" alt="my languages"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Activity Graph:
+![Adithya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adithya2018&hide_border=true&theme=redical)
+
+

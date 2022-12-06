@@ -1,5 +1,12 @@
 ## 🧑🏽Intro:
-  Hi I'm Adithyan a full stack developer. I'm currently working in Nielsen.
+  Hi 👋🏽 I'm Adithyan. I'm a Software Developer interested in 
+  1. Automation,
+  2. Machine Learning,
+  3. Data Science,
+  4. Web and App Development, and 
+  5. Most importantly building things ⚒️🔨⛏️
+  
+  I'm currently working in [Nielsen](https://www.nielsen.com/).
 ## 🔑Key Skills:
   1. Python (Flask, PyQt4, OpenCV,...)
   2. HTML, CSS (Bootstrap)

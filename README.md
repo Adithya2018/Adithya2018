@@ -6,7 +6,7 @@
   4. Web and App Development, and 
   5. Most importantly building things ⚒️🔨⛏️
   
-  I'm currently working @ [Nielsen](https://www.nielsen.com/).
+  I'm currently working [@Nielsen](https://www.nielsen.com/).
 ## 🔑Key Skills:
   1. Python (Flask, PyQt4, OpenCV,...)
   2. HTML, CSS (Bootstrap)

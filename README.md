@@ -1,4 +1,4 @@
-## 🧑🏽Intro:
+## 🤓Intro:
   Hi 👋🏽 I'm Adithyan. I'm a Software Developer interested in 
   1. Automation,
   2. Machine Learning,
